@@ -1,0 +1,14 @@
+F:\PR_work\TaskMangement\TaskMangement.Core\bin\Debug\net6.0\TaskMangement.Core.deps.json
+F:\PR_work\TaskMangement\TaskMangement.Core\bin\Debug\net6.0\TaskMangement.Core.runtimeconfig.json
+F:\PR_work\TaskMangement\TaskMangement.Core\bin\Debug\net6.0\TaskMangement.Core.dll
+F:\PR_work\TaskMangement\TaskMangement.Core\bin\Debug\net6.0\TaskMangement.Core.pdb
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.csproj.AssemblyReference.cache
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.AssemblyInfoInputs.cache
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.AssemblyInfo.cs
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.csproj.CoreCompileInputs.cache
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.dll
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\refint\TaskMangement.Core.dll
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.pdb
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\TaskMangement.Core.genruntimeconfig.cache
+F:\PR_work\TaskMangement\TaskMangement.Core\obj\Debug\net6.0\ref\TaskMangement.Core.dll
